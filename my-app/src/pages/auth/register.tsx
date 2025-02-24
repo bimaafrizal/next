@@ -5,7 +5,7 @@ const RegisterPage = () => {
       <div>
         <h1>Register</h1>
         <p>
-          Sudah punya akun? register <Link href={"/auth/login"}>Disini</Link>{" "}
+          Sudah punya akun? register <Link href={"/auth/login"}>Disini</Link>
         </p>
       </div>
     );
